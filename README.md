@@ -1,32 +1,74 @@
-## Sou o Gustavo, prazer em te conhecer 
+## 👋 Sou o Gustavo, prazer em te conhecer 
 
 ####  Seja Bem-vindo(a) ao meu novo GitHub
-- ###### Antigo perfil github.com/[OliveiraGusta](https://github.com/OliveiraGusta)/
+- ###### Antigo perfil: [OliveiraGusta](https://github.com/OliveiraGusta)
 - ##### Aproveite um ✨[Lofi](https://www.youtube.com/watch?v=_tV5LEBDs7w) e relaxe a mente
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=100&color=FFFFFF&multiline=true&repeat=false&random=false&width=620&height=90&lines=%F0%9F%92%BB+Desenvolvedor+FullStack;%F0%9F%93%9A+Cursando+Bacharelato+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+FEI;%F0%9F%8E%93+Formado+T%C3%A9cnico+em+Desenvolvimento+de+Sistemas+na+ETEC;%F0%9F%8C%B1+Freelancer+e+Professor+de+Programação)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=100&color=FFFFFF&multiline=true&repeat=false&random=false&width=620&height=90&lines=%F0%9F%92%BB+Desenvolvedor+FullStack+Angular+%2B+Node.js;%F0%9F%93%9A+Cursando+Bacharelado+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+FEI;)](https://git.io/typing-svg)
 
->_SIC PARVIS MAGNA_\
+> _SIC PARVIS MAGNA_  
 > Grandeza a partir de pequenos começos
 
-<br>
-  <br>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Logo do Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Logo do JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Logo do Java" height="35" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="right" alt="Logo do MySQL" height="35" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="right" alt="Logo do MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+---
 
-</div >
+### 🚀 Tech Stack
 
- <br>
-<div><br>
- 
-  <a href = "mailto:gustavo.oliver456@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/oliveiragusta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://api.whatsapp.com/send?phone=5511999962796&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-   <a href="https://t.me/Oliveira_Guxta" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-    </div>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
   
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+  <!-- Outros -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</div>
+
+---
+
+### 🎧 Spotify (Liveira)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gb2r6t5pyyfqfrc76dkp2nsksm&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31gb2r6t5pyyfqfrc76dkp2nsksm&redirect=true)
+
+> _(Substitui o `uid` acima pelo teu ID do Spotify se quiser que atualize em tempo real)_
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Liveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiveiraGusta&show_icons=true&theme=tokyonight&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiveiraGusta&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 📬 Contato
+
+<a href="mailto:gustavo.oliver456@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/oliveiragusta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://api.whatsapp.com/send?phone=5511999962796&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://t.me/Oliveira_Guxta" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+---
+
+> “Pedreiro de Software.” 😎
