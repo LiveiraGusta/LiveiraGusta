@@ -43,14 +43,6 @@
 
 ---
 
-### 🎧 Spotify (Liveira)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gb2r6t5pyyfqfrc76dkp2nsksm&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true)](https://spotify-github-profile.vercel.app/api/view?uid=31gb2r6t5pyyfqfrc76dkp2nsksm&redirect=true)
-
-> _(Substitui o `uid` acima pelo teu ID do Spotify se quiser que atualize em tempo real)_
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
