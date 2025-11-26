@@ -1,5 +1,5 @@
-## 👋 Sou o Gustavo, prazer em te conhecer 
-
+## Sou o Gustavo, prazer em te conhecer 
+> “Pedreiro de Software.”
 ####  Seja Bem-vindo(a) ao meu novo GitHub
 - ###### Antigo perfil: [OliveiraGusta](https://github.com/OliveiraGusta)
 - ##### Aproveite um ✨[Lofi](https://www.youtube.com/watch?v=_tV5LEBDs7w) e relaxe a mente
@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
   
@@ -36,7 +36,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   
@@ -47,7 +47,7 @@
 
 ---
 
-### 📬 Contato
+### Contato
 
 <a href="mailto:gustavo.oliver456@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/oliveiragusta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -56,4 +56,4 @@
 
 ---
 
-> “Pedreiro de Software.” 😎
+
